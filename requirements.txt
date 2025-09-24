@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-openai>=0.1.7
+python-docx
+PyMuPDF
+openai
+pytest
+selenium
+python-dotenv
+md2docx-python
+streamlit

@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.envrc
+.env
+
+# Logs
+*.log
+testgenerationagent.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# Outputs
+outputs/
+generated_outputs/
+GEN-TESTSCRIPTS/
+requirements/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Requirement Docs
+requirement_docs*/
+requirements/
